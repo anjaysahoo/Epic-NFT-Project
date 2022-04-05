@@ -17,7 +17,7 @@ contract MyEpicNFT is ERC721URIStorage {
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
 
-    uint256 totalMintCount = 5;
+    uint256 totalMintCount = 100;
 
     // This is our SVG code. All we need to change is the word that's displayed. Everything else stays the same.
     // So, we make a baseSvg variable here that all our NFTs can use.
