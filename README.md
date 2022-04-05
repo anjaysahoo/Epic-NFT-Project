@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# EPIC NFT PROJECT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project let users connect their Ethereum wallet, and mint an NFT to their wallet so they actually own it. They'll even be able to re-sell the NFT on OpenSea. The NFT itself can be customized to whatever you want.
 
-Try running some of the following tasks:
+Go try minting a NFT : https://nft-starter-project.anjaysahoo.repl.co/
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
